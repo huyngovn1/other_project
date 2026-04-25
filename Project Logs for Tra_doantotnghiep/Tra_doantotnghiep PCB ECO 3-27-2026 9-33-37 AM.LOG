@@ -1,0 +1,121 @@
+Added Component: Designator=*(ESP32 DEVKIT)
+Added Component: Designator=C1(tu hoa 5mm)
+Added Component: Designator=C2(tu hoa 4mm)
+Added Component: Designator=C3(tu gom)
+Added Component: Designator=C4(tu gom)
+Added Component: Designator=D1(DIODE 1A)
+Added Component: Designator=haap(TO-220-3)
+Added Component: Designator=I2C1(HDR2X4)
+Added Component: Designator=I2C(HDR2X4)
+Added Component: Designator=J1(691216510003S)
+Added Component: Designator=JACK DC1(JACK DC 5.5)
+Added Component: Designator=K1(RELAY_SRD-05VDC-SL-C)
+Added Component: Designator=P1(HDR2X3_CEN)
+Added Component: Designator=P2(HDR2X3_CEN)
+Added Component: Designator=P4(HDR2X3_CEN)
+Added Component: Designator=P5(HDR2X3_CEN)
+Added Component: Designator=Q1(TO92)
+Added Component: Designator=R1(tro vach 1/2w)
+Added Pin To Net: NetName=3V3 Pin=*-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=*-19
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=5V Pin=haap-3
+Added Pin To Net: NetName=5V Pin=I2C1-1
+Added Pin To Net: NetName=5V Pin=I2C1-2
+Added Pin To Net: NetName=5V Pin=I2C-1
+Added Pin To Net: NetName=5V Pin=I2C-2
+Added Pin To Net: NetName=5V Pin=K1-A1
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P1-4
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=5V Pin=P4-4
+Added Pin To Net: NetName=5V Pin=P5-1
+Added Pin To Net: NetName=5V Pin=P5-4
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=C1-1
+Added Pin To Net: NetName=12V Pin=C3-1
+Added Pin To Net: NetName=12V Pin=haap-1
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Pin To Net: NetName=12V Pin=JACK DC1-1
+Added Pin To Net: NetName=12V Pin=K1-NO
+Added Net: Name=12V
+Added Pin To Net: NetName=COML Pin=J1-2
+Added Pin To Net: NetName=COML Pin=R1-2
+Added Net: Name=COML
+Added Pin To Net: NetName=COM Pin=K1-COM
+Added Pin To Net: NetName=COM Pin=R1-1
+Added Net: Name=COM
+Added Pin To Net: NetName=G2 Pin=*-24
+Added Pin To Net: NetName=G2 Pin=P4-6
+Added Net: Name=G2
+Added Pin To Net: NetName=G4 Pin=*-26
+Added Pin To Net: NetName=G4 Pin=P4-3
+Added Net: Name=G4
+Added Pin To Net: NetName=G5 Pin=*-28
+Added Pin To Net: NetName=G5 Pin=P5-6
+Added Net: Name=G5
+Added Pin To Net: NetName=G17 Pin=*-27
+Added Pin To Net: NetName=G17 Pin=P5-3
+Added Net: Name=G17
+Added Pin To Net: NetName=G32 Pin=*-7
+Added Pin To Net: NetName=G32 Pin=P2-3
+Added Net: Name=G32
+Added Pin To Net: NetName=G33 Pin=*-8
+Added Pin To Net: NetName=G33 Pin=P2-6
+Added Net: Name=G33
+Added Pin To Net: NetName=G34 Pin=*-5
+Added Pin To Net: NetName=G34 Pin=P1-3
+Added Net: Name=G34
+Added Pin To Net: NetName=G35 Pin=*-6
+Added Pin To Net: NetName=G35 Pin=P1-6
+Added Net: Name=G35
+Added Pin To Net: NetName=GND Pin=*-14
+Added Pin To Net: NetName=GND Pin=*-18
+Added Pin To Net: NetName=GND Pin=*-32
+Added Pin To Net: NetName=GND Pin=*-38
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=haap-2
+Added Pin To Net: NetName=GND Pin=I2C1-3
+Added Pin To Net: NetName=GND Pin=I2C1-4
+Added Pin To Net: NetName=GND Pin=I2C-3
+Added Pin To Net: NetName=GND Pin=I2C-4
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=JACK DC1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=K1-A2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NETLABEL253 Pin=Q1-2
+Added Net: Name=NETLABEL253
+Added Pin To Net: NetName=SCL Pin=*-36
+Added Pin To Net: NetName=SCL Pin=I2C1-5
+Added Pin To Net: NetName=SCL Pin=I2C1-6
+Added Pin To Net: NetName=SCL Pin=I2C-5
+Added Pin To Net: NetName=SCL Pin=I2C-6
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=*-33
+Added Pin To Net: NetName=SDA Pin=I2C1-7
+Added Pin To Net: NetName=SDA Pin=I2C1-8
+Added Pin To Net: NetName=SDA Pin=I2C-7
+Added Pin To Net: NetName=SDA Pin=I2C-8
+Added Net: Name=SDA
+Added Class: Name=Tra_doantotnghiep
+Added Room: Name=Tra_doantotnghiep

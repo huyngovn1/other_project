@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=G32 Pin=P2-3
+Removed Pin From Net: NetName=G33 Pin=P2-6
+Added Pin To Net: NetName=G33 Pin=P2-3
+Added Pin To Net: NetName=G32 Pin=P2-6
+Added Room: Name=Tra_doantotnghiep

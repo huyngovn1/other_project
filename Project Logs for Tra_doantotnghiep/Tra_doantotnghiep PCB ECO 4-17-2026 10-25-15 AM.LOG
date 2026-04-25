@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=D?-2
+Removed Pin From Net: NetName=12V Pin=J?-1
+Removed Pin From Net: NetName=COM Pin=J?-2
+Removed Pin From Net: NetName=GND Pin=J?-3
+Removed Pin From Net: NetName=5V Pin=K?-A1
+Removed Pin From Net: NetName=COM Pin=K?-COM
+Removed Pin From Net: NetName=12V Pin=K?-NO
+Removed Pin From Net: NetName=GND Pin=Q?-1
+Removed Pin From Net: NetName=G5 Pin=Q?-2
+Removed Member From Class: ClassName=Tra_doantotnghiep Member=D?
+Removed Member From Class: ClassName=Tra_doantotnghiep Member=J?
+Removed Member From Class: ClassName=Tra_doantotnghiep Member=K?
+Removed Member From Class: ClassName=Tra_doantotnghiep Member=Q?
+Added Room: Name=Tra_doantotnghiep

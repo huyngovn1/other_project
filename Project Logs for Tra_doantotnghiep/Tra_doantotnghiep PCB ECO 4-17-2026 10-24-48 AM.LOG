@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=COM Pin=R6-1
+Removed Member From Class: ClassName=Tra_doantotnghiep Member=R6
+Added Component: Designator=D?(DIODE 1A)
+Added Component: Designator=J?(691216510003S)
+Added Component: Designator=K?(RELAY_SRD-05VDC-SL-C)
+Added Component: Designator=Q?(TO92)
+Added Pin To Net: NetName=5V Pin=D?-2
+Added Pin To Net: NetName=COM Pin=J1-2
+Added Pin To Net: NetName=12V Pin=J?-1
+Added Pin To Net: NetName=COM Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=5V Pin=K?-A1
+Added Pin To Net: NetName=COM Pin=K?-COM
+Added Pin To Net: NetName=12V Pin=K?-NO
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=G5 Pin=Q?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=K?-A2
+Added Pin To Net: NetName=NetD?_1 Pin=Q?-3
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Tra_doantotnghiep Member=Component D? 100v
+Added Member To Class: ClassName=Tra_doantotnghiep Member=Component J? 691216510003S
+Added Member To Class: ClassName=Tra_doantotnghiep Member=Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=Tra_doantotnghiep Member=Component Q? 2N22
+Added Room: Name=Tra_doantotnghiep
